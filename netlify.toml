@@ -1,3 +1,0 @@
-[build]
-  command = "node index.js"  # Comando para iniciar o servidor Node.js
-  publish = ""  # Como não há processo de construção, deixe esta linha vazia ou remova-a
